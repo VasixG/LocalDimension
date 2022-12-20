@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1669972918 source:c:\users\vasil\documents\localdimofpointscloud\glproj\main.cpp
+	<iostream>
+	"C:\Program Files\CodeBlocks\MinGW\x86_64-w64-mingw32\include\GL\glu.h"
+	"C:\Program Files\CodeBlocks\MinGW\x86_64-w64-mingw32\include\GL\glut.h"
+	<windows.h>
+
+1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
+	<GL/gl.h>
+
+1669974936 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glut.h
+	"freeglut_std.h"
+
+1669974936 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
